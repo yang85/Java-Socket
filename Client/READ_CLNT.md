@@ -1,8 +1,8 @@
-#Client  
+**Client**  
 Developed in Java 8 JDK  
-A UUID for this entity will be provided in command line  
-more will be explained in each README_CLNT.md  
+A UUID for this entity will be provided in command line during initializing    
 =======================================================
-#Function
-**1.INIT:{UUID}** 		: initialize a connection with server  
-**CLOSE** 				: End a connection with server  
+**Function**  
+**1.INIT:{UUID}** 		: Initialize a connection with server.  
+**2.PING**              : Ping the server after a connection is Initialized.  
+**3.CLOSE** 			: End a connection with server.  
