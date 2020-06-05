@@ -1,9 +1,9 @@
 # java-tcp-socket
 
-This Project consist 2 major parts.    <br/>
+This Project consist 2 major parts.    
 
-**1. Client** : Client, used for testing.     <br/>
+**1. Client** : Client, used for testing.    
 
-**2. Server** : Server, used for all server purpose.      <br/>
+**2. Server** : Server, used for all server purpose.  
 
 =======================================================
